@@ -476,7 +476,7 @@ checksum = "23b97319f7b8343df12cc98938e5c3eb436064524c8d2b4e30a1d3a36eecdf81"
 [[package]]
 name = "workpool"
 version = "0.1.0"
-source = "git+https://github.com/r3clusionn/thread-pool-library?rev=8a03458#8a034586e206c4f87bd289d765f15de18b1e343e"
+source = "git+https://github.com/r3clusionn/thread-pool-library?rev=35ee663#35ee663e9fe77355a360849e7c8d35a90af87805"
 
 [[package]]
 name = "zmij"
